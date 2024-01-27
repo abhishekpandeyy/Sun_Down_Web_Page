@@ -4,10 +4,14 @@
     box-sizing: border-box;
     /* background-color: #efEae3;  */
     /* font-family: "Neuehaasdisplay mediu,sans-serif"; */
-    font-family: "Neue Haas Grotesk Display Pro";
+    font-family: fontt;
 
   }
-  
+
+ @font-face {
+    font-family: fontt;
+    src: url("https://uploads-ssl.webflow.com/64d3dd9edfb41666c35b15b7/64d3dd9edfb41666c35b15c0_NeueHaasDisplay-Roman.woff");
+  }
   /* @font-face {
     font-family: fontt;
     src: url(./01_64d3dd9edfb41666c35b15bf_NeueHaasDisplay-Mediu.ttf);
@@ -39,7 +43,7 @@
     height: 100px;
     align-items: center;
     justify-content: space-between;
-    padding: 80px 40px 0 40px;
+    padding: 80px 40px 65px 40px;
     
   }
   #img{
