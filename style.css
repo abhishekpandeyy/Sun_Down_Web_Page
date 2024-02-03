@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     /* background-color: #efEae3;  */
-    /* font-family: "Neuehaasdisplay mediu,sans-serif"; */
+    font-family: "Neuehaasdisplay mediu,sans-serif";
     font-family: fontt;
 
   }
@@ -145,7 +145,7 @@ width: 50%;
  #twoPart h1
  {
   
-    font-size: 220px;
+    font-size: 190px;
    line-height: 0.8;
     text-align: right;
     letter-spacing: -.03rem;
